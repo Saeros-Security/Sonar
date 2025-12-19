@@ -57,6 +57,10 @@ Hit `S` to display detection statistics:
   </tr>
 </table>
 
+#### Help (Keystroke `H`)
+
+Hit `H` to display help.
+
 ---
 
 ## Contributing
