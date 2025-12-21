@@ -8,7 +8,7 @@
 
 - **Real-Time:** Unlike traditional batch-processing tools, Sonar monitors event logs as they are generated, minimizing the "detection gap".
 - **Extensive Ruleset:** Leverages the battle-tested [Hayabusa rules](https://github.com/Yamato-Security/hayabusa-rules) from Yamato Security.
-- **Lightweight:** 7MB executable and dependency-free.
+- **Lightweight:** 7MB dependency-free executable.
 - **Offline:** Designed to work with air-gapped environments.
 - **Export Capabilities:** Query detections by rule name, severity, keywords, and export them into JSON files.
 
@@ -68,5 +68,3 @@ Hit `H` to display help.
 ## License
 
 Distributed under the GPLv3 License.
-
----
